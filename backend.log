@@ -1,0 +1,8 @@
+nohup: ignoring input
+INFO:     Started server process [31467]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:53072 - "GET / HTTP/1.1" 200 OK
+INFO:     45.114.215.74:0 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     45.114.215.74:0 - "POST / HTTP/1.1" 405 Method Not Allowed
